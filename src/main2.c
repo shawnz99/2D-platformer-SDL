@@ -1,5 +1,6 @@
 /*
 //
+//	Platformer Game in SDL
 //
 */
 #include <stdio.h>
